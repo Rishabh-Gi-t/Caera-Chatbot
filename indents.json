@@ -1,0 +1,49 @@
+{"indents":
+    [
+        {
+        "tag": "greeting",
+            "patterns":["Hi", "Hey", "Is anyone there?", "Hola", "Hallo"],
+            "responses":["Hello!", "Hewwoo UwU", "Hello there.."]
+        },
+        {
+        "tag": "goodbye",
+            "patterns": ["bye", "See ya later", "Goodbye"],
+            "responses":["See yaaa have a good one", "bye~bye", "Bye~come back again"]
+        },
+        {
+        "tag":"thanks",
+            "patterns":["Thanks", "That was helpful", "thanks for the help"],
+            "responses":["Im glad i was able to help", "haha! come back again", "My pleasure Sir/Ma'am"]
+        },
+        {
+        "tag": "about",
+            "patterns":["Who are you?", "What should i call you", "Whats your name?"],
+            "responses":["I'm caera, your AI assistant", "I'm Caera, the AI programmed by Rei"]
+        },
+        {
+        "tag":"name",
+            "patterns":["what is your name", "state your name"],
+            "responses":["You can call me Caera", "Caera, I go by caera"]
+        },
+        {
+        "tag":"help",
+            "patterns":["Could you help me?", "Give me a hand", "What can you do for me?", "I need a supporter"],
+            "responses":["Tell me, How can i assist you?", "Tell me your problem", "Yes sure, How can i support you"]
+        },
+        {
+        "tag":"Createaccount",
+            "patterns":["I need to create a new acocunt", "How to open a new account", "I want to create an account", "can you create an account for me", "Help me to create an account"],
+            "responses":["You can create from out website", "We have the stepwise guide-lines on how to create an account there"]
+
+        },
+
+        {
+        "tag":"Complaint",
+            "patterns":["I have a complint", "I want to raise a complaint", "There is a complaint about services"],
+            "responses":["Please provide the complaint in order to assist you", "Please mention your complaint, we will reach you and sorry for any inconvience caused"]
+
+        }
+
+
+    ]
+}
